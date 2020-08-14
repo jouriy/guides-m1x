@@ -1,0 +1,17 @@
+# Site settings
+encoding: "utf-8"
+title: Magento 1.x Developer Documentation
+email: mailto:DL-Magento-Doc-Feedback@ebay.com
+description: Magento 1.x Developer Guide
+baseurl: "/"
+
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+githuburl: "https://github.com/jouriy/guides-m1x"
+m1xgdeurl: "/"
+m1xgithuburl: "https://github.com/jouriy/guides-m1x"
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
