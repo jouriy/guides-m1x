@@ -8,10 +8,10 @@ baseurl: "/guides-m1x/"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 githuburl: "https://github.com/jouriy/guides-m1x/"
-m1xgdeurl: "/"
+m1xgdeurl: "/guides-m1x/"
 m1xgithuburl: "https://github.com/jouriy/guides-m1x/"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
